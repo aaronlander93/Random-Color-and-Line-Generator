@@ -1,4 +1,4 @@
-# Random-Color-and-Line-Generator
+# Random Color and Line Generator
 Animated concept for a screensaver that utilizes random number generation and algebra to create random lines and colors across the user's screen. Created with vanilla JavaScript.
 
 Demo can be viewed here: http://data.aaronlander.com/RandomLineColor/RandomLineColor.html
